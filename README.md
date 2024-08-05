@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Khadija!
 
-<!--
-**ksehar99/ksehar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a tech enthusiast with a passion for both hardware and software development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Education**: I'm currently a student of Computer and Systems Engineering at NED University.
+- **Interests**: I'm passionate about software development, game development, and working with IoT.
+
+
+## Get in Touch
+
+I'd love to connect with fellow enthusiasts! Feel free to reach out to me through:
+
+- **LinkedIn**: [www.linkedin.com/in/khadija17](https://www.linkedin.com/in/khadija17)
+- **Email**: khadijasehar10@gmail.com
+
+Thank you for visiting my profile! 
