@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for both hard
 I'd love to connect with fellow enthusiasts! Feel free to reach out to me through:
 
 - **LinkedIn**: [www.linkedin.com/in/khadija17](https://www.linkedin.com/in/khadija17)
+- **Hackerrank**: https://www.hackerrank.com/profile/khadijasehar10
 - **Email**: khadijasehar10@gmail.com
 
 Thank you for visiting my profile! 
