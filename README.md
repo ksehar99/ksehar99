@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for both hard
 ## About Me
 
 - **Education**: I'm currently a student of Computer and Systems Engineering at NED University.
-- **Interests**: I'm passionate about application development, interactive technologies, and IoT.
+- **Interests**: I'm passionate about python & C++ development, interactive technologies, and hardware.
 
 ## Get in Touch
 
