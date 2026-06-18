@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khadija Sehar 👋</h1>
+<h1 align="center">Hi, I'm Khadija Sehar</h1>
 
 <p align="center">
   <em>Computer & Systems Engineering student @ NED University</em><br/>
@@ -7,29 +7,29 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Studying **Computer & Systems Engineering** at NED University, Karachi
-- ⛓️ Currently diving into **Blockchain & Web3** — smart contracts, decentralized systems
-- 🔬 Interested in **Verilog & Hardware Design** — from logic gates to complex digital systems
-- 🤖 Curious about **AI/ML** and its applications in real-world problems
-- 💻 Comfortable in **Python** and **C++**
-- 📖 Learning in public — this profile is my journey, not just my results
+- Studying **Computer & Systems Engineering** at NED University, Karachi
+- Currently diving into **Blockchain & Web3** — smart contracts, decentralized systems
+- Interested in **Verilog & Hardware Design** — from logic gates to complex digital systems
+- Curious about **AI/ML** and its applications in real-world problems
+- Comfortable in **Python** and **C++**
+- Learning in public — this profile is my journey, not just my results
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 | Area | Status |
 |---|---|
-| Blockchain fundamentals & smart contracts | 🔄 In progress |
-| Verilog / HDL practice | 🔄 In progress |
-| AI/ML foundations | 🔜 Coming soon |
-| Personal projects | 🔜 Coming soon |
+| Blockchain fundamentals & smart contracts | In progress |
+| Verilog / HDL practice | In progress |
+| AI/ML foundations | Coming soon |
+| Personal projects | Coming soon |
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -40,7 +40,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/khadija17"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
