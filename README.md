@@ -24,8 +24,6 @@
 |---|---|
 | Blockchain fundamentals & smart contracts | In progress |
 | Verilog / HDL practice | In progress |
-| AI/ML foundations | Coming soon |
-| Personal projects | Coming soon |
 
 ---
 
