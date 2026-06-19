@@ -10,7 +10,7 @@
 ## About Me
 
 - Studying **Computer & Systems Engineering** at NED University, Karachi
-- Currently diving into **Blockchain & Web3** — smart contracts, decentralized systems
+- Currently diving into **Blockchain** — smart contracts, decentralized systems
 - Interested in **Verilog & Hardware Design** — from logic gates to complex digital systems
 - Curious about **AI/ML** and its applications in real-world problems
 - Comfortable in **Python** and **C++**
