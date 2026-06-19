@@ -49,9 +49,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksehar99&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ksehar99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksehar99&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksehar99&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
 
 <p align="center"><em>"Building expertise one commit at a time."</em></p>
