@@ -23,7 +23,8 @@
 | Area | Status |
 |---|---|
 | Blockchain fundamentals & smart contracts | In progress |
-| Verilog / HDL practice | In progress |
+| AI/ML | In progress |
+| Verilog / HDL practice | Next |
 
 ---
 
